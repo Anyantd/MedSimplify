@@ -15,4 +15,23 @@ definition: A plain-English explanation of the term
 BMI : a measure of body fat based on height and weight  
 ECG : a recording of the heartbeat that helps doctors check if the heart is beating properly. It is made by placing electrodes on the chest, arms, and legs, and connecting them to a machine that records the heartbeat. Getting an ECG doesn’t hurt.
  
+## 🛢️ Data Sources
+MedSimplify was constructed by aggregating and unifying content from multiple publicly available medical glossaries created by researchers and experts in the medical field. These include:
+
+- Glossary of Lay Terminology for Consent Forms
+https://feinstein.northwell.edu/sites/northwell.edu/files/2019-07/Glossary-of-Lay-Terminology-for-Consent-Forms-07-19.pdf
+
+- Plain Language Thesaurus for Health Communications
+https://stacks.cdc.gov/view/cdc/11500
+
+- CLAD-Thesaurus
+https://clad.tccld.org/wp-content/uploads/2014/12/CLAD-Thesaurus.pdf
+
+- Plain English Health Dictionary
+https://nt.gov.au/__data/assets/pdf_file/0006/1257567/aid-plain-english-health-dictionary-spread.pdf
+
+- Glossary (in Lay Terms)
+https://rcm1.rcm.upr.edu/institutionalreview/wp-content/uploads/sites/16/2020/04/layterms.pdf
+
+These glossaries were merged and curated to create a unified resource that supports scientific text simplification by providing plain-language definitions of biomedical terms.
 
